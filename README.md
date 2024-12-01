@@ -195,3 +195,5 @@ Deploy the frontend to Netlify or any other hosting provider of your choice.
 Accessing the Project:
 The application can be accessed through the URL where the frontend is hosted https://flyshoes-frontend-d4a16ae44cdf.herokuapp.com/login
 Admins can access the admin dashboard after logging in with the admin credentials, typically stored in the backend's database.
+
+---
