@@ -76,6 +76,8 @@ Front End:
 https://github.com/burb3rrydev/fly-shoes
 Back End:
 https://github.com/burb3rrydev/backend 
+Database:
+https://github.com/burb3rrydev/shoe_store_DB
 Install Backend Dependencies: Navigate to the backend folder and install the required dependencies:
 
 Create a MySQL database and set up the tables according to the provided ER Diagram.
