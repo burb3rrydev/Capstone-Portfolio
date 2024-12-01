@@ -61,7 +61,8 @@ The project is designed for scalability and maintainability, utilizing modern we
 ![Data Flow Diagram](Capstone_Images/DataFlowDiagram.PNG)
 
 ### ER Diagram
-![ER Diagram](Capstone_Images/ERDiagram.PNG)
+![ER Diagram](Capstone_Images/ERDiagram.png)
+
 
 ### Wireframe
 ![Wireframe Diagram](Capstone_Images/WireframeDiagram.PNG)
