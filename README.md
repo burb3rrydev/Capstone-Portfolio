@@ -163,6 +163,8 @@ router.delete('/admin/shoes/:id', (req, res) => {
     });
 });
 
+---
+
 ### Setup Instructions:
 
 1. **Clone the Repository**:
