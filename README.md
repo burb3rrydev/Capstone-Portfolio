@@ -104,7 +104,7 @@ Admins can access the admin dashboard after logging in with the admin credential
 
 For admin login 
 
-username: admin password: admin
+username: admin | password: admin |
 When adding a new shoe in admin dashboard refresh the page after adding the shoe and login again.
 
 ---
