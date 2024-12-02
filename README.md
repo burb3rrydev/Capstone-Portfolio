@@ -107,6 +107,13 @@ For admin login
 username: admin | password: admin |
 When adding a new shoe in admin dashboard refresh the page after adding the shoe and login again.
 
+When testing interactively, use a card number, such as 4242 4242 4242 4242. Enter the card number in the Dashboard or in any payment form.
+
+Use a valid future date, such as 12/34.
+Use any three-digit CVC (four digits for American Express cards).
+Use any value you like for other form fields.
+
+
 ---
 
 ## Code Snippets
